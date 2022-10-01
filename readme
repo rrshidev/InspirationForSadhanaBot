@@ -1,0 +1,1 @@
+This is an example of a simple telegram bot code that responds to a button click. When called, the bot sends a random saying of the sages of antiquity and modernity, stored in a variable of the list type.
